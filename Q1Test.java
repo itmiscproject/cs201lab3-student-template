@@ -65,5 +65,6 @@ public class Q1Test {
       // write your codes here
      public static String verify(String traversal1, String traversal2, String traversal3){
           return "";
+          // Don't know what to do
      }
 }
